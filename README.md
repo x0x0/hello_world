@@ -1,5 +1,7 @@
 # hello_world
-1st Repository
 
 info portion1: 12344567890
+
+info portion2:0987654321
+
 
